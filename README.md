@@ -1,2 +1,12 @@
-# Recurrent_Queer_Imaginaries
-In collaboration with Helen Pritchard - 
+# Recurrent Queer Imaginaries
+In collaboration with Helen Pritchard 
+
+# Description 
+"Recurrent Queer Imaginaries" features queer manifestos, urban dreams and the new artificial intelligence entity - "Motto Assistant". As a machine learner, "Motto Assistant" continuously writes mottos for revolutions, anti-facist guiding principles of living, queer love ethics, authoritarian resistances, political movements, class struggles, municipal identities, city planning, art practices, joyful engagements and violent direct action.The artwork was developed using manifestos and zines for queer and intersectional life as source text for machine learning and generative processes with neural networks. Incoherent and worm-eaten, Soon and Pritchard invite the audience to interpret a motto from "Motto Assistant" as a guiding principle of how to reorganise your collective life and fight injustices in the present. 
+Now, start your motto...
+
+For more details, visit: http://siusoon.net/recurrent-queer-imaginaries/ 
+
+# Technical 
+1. For machine learning and training: Adapt from [Text Predictor](https://github.com/gsurma/text_predictor) in Python, produced by Greg Surma 
+2. For diastic modelling and text generation: p5.js 
