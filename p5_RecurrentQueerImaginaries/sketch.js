@@ -1,10 +1,11 @@
 /*
 Recurrent Queer Imaginaries (2019) by Winnie Soon and Helen Pritchard
 More: http://siusoon.net/recurrent-queer-imaginaries/
+Last update: 4 Nov 2019
 
 CREDIT:
 FONT - https://fontlibrary.org/en/font/textura-libera
-GIF/motion graphic b7 Rafel Araujo - https://giphy.com/gifs/animation-loop-dark-xUA7aQJxHftDbAFMic
+GIF/motion graphic by Rafel Araujo - https://giphy.com/gifs/animation-loop-dark-xUA7aQJxHftDbAFMic
 p5.js - https://p5js.org/
 
 What it does:
