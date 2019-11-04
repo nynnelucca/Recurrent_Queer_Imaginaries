@@ -12,9 +12,9 @@ For more details, visit: http://siusoon.net/recurrent-queer-imaginaries/
 2. For diastic modelling and text generation: p5.js 
 
 # CREDIT:
-FONT - https://fontlibrary.org/en/font/textura-libera
-GIF/motion graphic by Rafel Araujo - https://giphy.com/gifs/animation-loop-dark-xUA7aQJxHftDbAFMic
-p5.js - https://p5js.org/
+- FONT - https://fontlibrary.org/en/font/textura-libera
+- GIF/motion graphic by Rafel Araujo - https://giphy.com/gifs/animation-loop-dark-xUA7aQJxHftDbAFMic
+- p5.js - https://p5js.org/
 
 # What it does:
 - loading the source text and put each word into an array
