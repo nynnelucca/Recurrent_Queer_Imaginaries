@@ -13,7 +13,7 @@ For more details, visit: http://siusoon.net/recurrent-queer-imaginaries/
 
 # CREDIT:
 - FONT - https://fontlibrary.org/en/font/textura-libera
-- GIF/motion graphic by Rafel Araujo - https://giphy.com/gifs/animation-loop-dark-xUA7aQJxHftDbAFMic
+- GIF/motion graphic by [Rafel Araujo](https://rafaeldearaujo.tumblr.com/) - https://giphy.com/gifs/animation-loop-dark-xUA7aQJxHftDbAFMic
 - p5.js - https://p5js.org/
 
 # What it does:
