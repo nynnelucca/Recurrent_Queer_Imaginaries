@@ -37,7 +37,7 @@ let timer = 70000;  //1 sec = 1000
 let loading = 10000;
 let seedWord = [];
 let finalWord =[];
-let delwords = ["for", "a", "national", "lillian"];
+let delwords = ["for", "a", "national", "lillian", "christian", "nationally", "john", "father", "religion"];
 
 function preload() {
   rnnText = loadStrings("data/RNN_EditedText.txt");
